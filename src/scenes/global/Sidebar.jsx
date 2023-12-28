@@ -171,7 +171,7 @@ function Sidebar() {
             />
             <Item
               title="Calendar"
-              to="/calendar"
+              to="/calender"
               icon={<CalendarTodayOutlinedIcon />}
               selected={selected}
               setSelected={setSelected}
